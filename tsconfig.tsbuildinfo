@@ -1,0 +1,19 @@
+{
+  "root": [
+    "./src/app.tsx",
+    "./src/index.ts",
+    "./src/main.tsx",
+    "./src/setuptests.ts",
+    "./src/vite-env.d.ts",
+    "./src/components/button/button.stories.tsx",
+    "./src/components/button/button.test.tsx",
+    "./src/stories/button.stories.ts",
+    "./src/stories/button.tsx",
+    "./src/stories/header.stories.ts",
+    "./src/stories/header.tsx",
+    "./src/stories/page.stories.ts",
+    "./src/stories/page.tsx"
+  ],
+  "errors": true,
+  "version": "5.7.3"
+}
