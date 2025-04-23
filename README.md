@@ -1,1 +1,1 @@
-Before running the project, execute the next_task: `npm link hometask`.
+Before running the project, execute the task_next: `npm link hometask`.
